@@ -1,0 +1,254 @@
+/* Author : Sonu J */
+* {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.title {
+    display: flex;
+    width: 100%;
+    gap: 5%;
+}
+container {
+    display: flex;
+    flex-direction: column;
+
+    padding: 0 50px;
+}
+.profile {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    background-color: #e7e4df;
+    margin-top: 35px;
+    border-top: 6px solid #f00;
+}
+.imagediv {
+    width: 35%;
+}
+.myimage {
+    width: 60%;
+    float: right;
+    border-radius: 250px;
+    border: 1px solid;
+    box-shadow: 0px 0px 20px 4px rgb(155, 146, 146);
+}
+.name h3 {
+    color: #f00;
+    font-weight: lighter;
+}
+
+.name {
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+.name p {
+    color: rgb(145, 134, 134);
+    line-height: 20px;
+    font-size: 14px;
+}
+.dob {
+    display: flex;
+    gap: 30px;
+}
+.dob span {
+    color: rgb(145, 134, 134);
+    font-size: 12px;
+}
+.dob p {
+    color: rgb(145, 134, 134);
+    font-size: 11px;
+}
+.blank2 {
+    height: 35px;
+}
+.social-media img {
+    width: 2%;
+}
+.social-media {
+    display: flex;
+    gap: 20px;
+}
+.my-details {
+    padding-top: 60px;
+    background-color: #e7e4df;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    padding-bottom: 35px;
+}
+.row {
+    display: flex;
+    gap: 100px;
+    padding: 0 100px;
+}
+.row1 {
+    width: 10%;
+}
+.activity {
+    text-align: right;
+    width: 33%;
+}
+.row p {
+    color: rgb(145, 134, 134);
+    font-size: 11px;
+}
+
+.activity2 {
+    width: 32%;
+    text-align: right;
+}
+.row2 {
+    width: 31%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.b-bottom {
+    padding-top: 6px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.b-bottom p {
+    font-size: 15px;
+    padding: 5px 0;
+}
+.html {
+    width: 95%;
+}
+.css {
+    width: 92%;
+}
+.php {
+    width: 80%;
+}
+.js {
+    width: 70%;
+}
+.ps {
+    width: 58%;
+}
+.is {
+    width: 77%;
+}
+.sketch {
+    width: 43%;
+}
+.macaw {
+    width: 60%;
+}
+.property {
+    border-bottom: 3px solid #f00;
+}
+.icon {
+    display: flex;
+}
+.icon-2 {
+    background-color: rgb(32, 30, 30);
+
+    margin: 1px;
+    border-radius: 5px;
+    height: 25px;
+    font-weight: bolder;
+    color: #fff;
+}
+.icon-2 p {
+    color: rgb(235, 222, 222);
+}
+.p-images {
+    display: flex;
+}
+.row3 img {
+    width: 30%;
+    height: 100px;
+    border: 1px solid #000;
+    border-radius: 5px;
+}
+
+.works {
+    width: 30%;
+    display: flex;
+    gap: 40px;
+}
+.row3 a {
+    margin: 0;
+    padding: 0;
+}
+
+.row2 img {
+    width: 15%;
+    height: 50px;
+}
+.srk {
+    display: flex;
+    gap: 10px;
+}
+.star {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.triangle {
+    height: 0;
+    width: 0;
+    border-top: 1px solid transparent;
+    border-left: 13px solid rgb(32, 30, 30);
+    border-bottom: 11px solid transparent;
+    color: #fff;
+}
+.row4 {
+    width: 9.5%;
+}
+span {
+    color: #f00;
+    font-size: 14px;
+}
+.activity3 {
+    width: 27.5%;
+    text-align: right;
+}
+
+.activity5 {
+    width: 50%;
+}
+.nil {
+    width: 27.5%;
+}
+.input {
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.height-input {
+    height: 30px;
+}
+.msg {
+    height: 100px;
+}
+.button1 {
+    background-color: rgb(185, 23, 23);
+    color: #fff;
+    border: 1px solid #000;
+    width: 12%;
+    height: 40px;
+    border-radius: 10px;
+}
+footer {
+    display: flex;
+    flex-direction: column;
+
+    padding: 0 50px 10px 0;
+    background-color: #e7e4df;
+    text-align: center;
+    font-size: 13px;
+    margin: 0 50px 35px 50px;
+    border-bottom: 4px solid #f00;
+}
+.row3 {
+    width: 74.5%;
+}
